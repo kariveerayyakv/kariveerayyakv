@@ -17,7 +17,7 @@
 kv = {
     "name"      : "Kariveerayyakv",
     "pronouns"  : "he/him",
-    "role"      : "Developer | Poet | Athlete",
+    "role"      : "Developer | Poet | Fitness enthusiast",
     "building"  : "LOOM — anonymous student grievance platform",
     "learning"  : ["Data Structures", "Backend Development", "System Design"],
     "fun_fact"  : "Code lives on my screen, poetry lives on paper🖊️"
@@ -59,8 +59,8 @@ kv = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔒 [**LOOM**](https://github.com/kariveerayyakv/Loomgrievance) | Secure & anonymous platform for students to lodge complaints and hold institutions accountable | JavaScript |
-| 🌐 [**Portfolio**](https://github.com/kariveerayyakv/pf) | My personal portfolio showcasing projects and skills | 
+| 🔒 [**LOOM**](https://github.com/kariveerayyakv/Loomgrievance) | Secure & anonymous platform for students to lodge complaints and hold institutions accountable |  Html | Css | Javascript |
+| 🌐 [**Portfolio**](https://github.com/kariveerayyakv/pf) | My personal portfolio showcasing projects and skills | Html | Css | Javascript | python | 
 
 ---
 
