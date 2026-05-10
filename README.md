@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm KV 👋
-### Developer · Poet · Fitness Enthusiast
+### Developer · Poetic · Fitness Enthusiast
 
 *Building things that matter — one commit at a time.*
 
